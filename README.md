@@ -22,7 +22,8 @@ Hi there, I'm Nwannadi Emeke
 </p>
 <ul>
   <li><a href="https://www.linkedin.com/in/Nwannadi Emeke/">LinkedIn</a></li>
-  <li><a href="mailto:youremail@example.com">emekedev@gmail.com</a></li>
+  <li><a href="https://www.gmail.com/emekedev">Gmail</a></li>
+  <li><a href="https://x.com/emeke_dev">X</a></li>
 </ul>
 
 🎯 What Drives Me
