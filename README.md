@@ -21,7 +21,7 @@ Hi there, I'm Nwannadi Emeke
   I'm always open to feedback, collaboration, or just a friendly tech chat. Feel free to connect with me:
 </p>
 <ul>
-  <li><a href="https://www.linkedin.com/in/Nwannadi Emeke/">LinkedIn</a></li>
+  <li><a href="https://www.linkedin.com/in/emeke-nwannadi-51210b342">LinkedIn</a></li>
   <li><a href="https://www.gmail.com/emekedev">Gmail</a></li>
   <li><a href="https://x.com/emeke_dev">X</a></li>
 </ul>
